@@ -1,0 +1,6 @@
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\PropertiesInCSharp\bin\Debug\PropertiesInCSharp.exe.config
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\PropertiesInCSharp\bin\Debug\PropertiesInCSharp.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\PropertiesInCSharp\bin\Debug\PropertiesInCSharp.pdb
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\PropertiesInCSharp\obj\Debug\PropertiesInCSharp.csprojAssemblyReference.cache
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\PropertiesInCSharp\obj\Debug\PropertiesInCSharp.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\PropertiesInCSharp\obj\Debug\PropertiesInCSharp.pdb

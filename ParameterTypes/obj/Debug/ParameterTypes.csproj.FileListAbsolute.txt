@@ -1,0 +1,6 @@
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\ParameterTypes\bin\Debug\ParameterTypes.exe.config
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\ParameterTypes\bin\Debug\ParameterTypes.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\ParameterTypes\bin\Debug\ParameterTypes.pdb
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\ParameterTypes\obj\Debug\ParameterTypes.csprojAssemblyReference.cache
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\ParameterTypes\obj\Debug\ParameterTypes.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\ParameterTypes\obj\Debug\ParameterTypes.pdb

@@ -1,0 +1,6 @@
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\MultiClassInhertitanceUsingInterfaces\bin\Debug\MultiClassInhertitanceUsingInterfaces.exe.config
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\MultiClassInhertitanceUsingInterfaces\bin\Debug\MultiClassInhertitanceUsingInterfaces.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\MultiClassInhertitanceUsingInterfaces\bin\Debug\MultiClassInhertitanceUsingInterfaces.pdb
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\MultiClassInhertitanceUsingInterfaces\obj\Debug\MultiClassInhertitanceUsingInterfaces.csprojAssemblyReference.cache
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\MultiClassInhertitanceUsingInterfaces\obj\Debug\MultiClassInhertitanceUsingInterfaces.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\MultiClassInhertitanceUsingInterfaces\obj\Debug\MultiClassInhertitanceUsingInterfaces.pdb

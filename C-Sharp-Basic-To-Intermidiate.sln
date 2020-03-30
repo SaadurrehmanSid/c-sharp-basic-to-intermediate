@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiClassInhertitanceUsing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{886DB9EF-2E13-4B18-AEA4-E7A678B5A619}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates_Usage", "Delegates_Usage\Delegates_Usage.csproj", "{E524E64C-D0FE-4656-9D47-A35BDBDA22C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{886DB9EF-2E13-4B18-AEA4-E7A678B5A619}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{886DB9EF-2E13-4B18-AEA4-E7A678B5A619}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{886DB9EF-2E13-4B18-AEA4-E7A678B5A619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E524E64C-D0FE-4656-9D47-A35BDBDA22C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E524E64C-D0FE-4656-9D47-A35BDBDA22C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E524E64C-D0FE-4656-9D47-A35BDBDA22C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E524E64C-D0FE-4656-9D47-A35BDBDA22C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

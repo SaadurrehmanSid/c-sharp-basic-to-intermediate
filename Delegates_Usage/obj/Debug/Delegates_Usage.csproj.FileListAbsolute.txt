@@ -1,0 +1,6 @@
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\Delegates_Usage\bin\Debug\Delegates_Usage.exe.config
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\Delegates_Usage\bin\Debug\Delegates_Usage.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\Delegates_Usage\bin\Debug\Delegates_Usage.pdb
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\Delegates_Usage\obj\Debug\Delegates_Usage.csprojAssemblyReference.cache
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\Delegates_Usage\obj\Debug\Delegates_Usage.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\Delegates_Usage\obj\Debug\Delegates_Usage.pdb

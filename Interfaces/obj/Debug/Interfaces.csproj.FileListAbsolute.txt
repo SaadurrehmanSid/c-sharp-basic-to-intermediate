@@ -1,0 +1,6 @@
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\Interfaces\obj\Debug\Interfaces.pdb

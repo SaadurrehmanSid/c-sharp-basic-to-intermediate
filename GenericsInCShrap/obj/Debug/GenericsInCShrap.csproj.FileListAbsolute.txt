@@ -1,0 +1,6 @@
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\GenericsInCShrap\bin\Debug\GenericsInCShrap.exe.config
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\GenericsInCShrap\bin\Debug\GenericsInCShrap.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\GenericsInCShrap\bin\Debug\GenericsInCShrap.pdb
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\GenericsInCShrap\obj\Debug\GenericsInCShrap.csprojAssemblyReference.cache
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\GenericsInCShrap\obj\Debug\GenericsInCShrap.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\GenericsInCShrap\obj\Debug\GenericsInCShrap.pdb

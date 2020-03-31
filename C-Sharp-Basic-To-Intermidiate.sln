@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumsInCSharp", "EnumsInCSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionalParametersInCShrap", "OptionalParametersInCShrap\OptionalParametersInCShrap.csproj", "{B02FA146-4CC1-46AF-8E21-6B2C2067BDE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsInCShrap", "GenericsInCShrap\GenericsInCShrap.csproj", "{9FF32BE2-C95C-48CD-AEE3-BFFD78BC3A77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{B02FA146-4CC1-46AF-8E21-6B2C2067BDE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B02FA146-4CC1-46AF-8E21-6B2C2067BDE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B02FA146-4CC1-46AF-8E21-6B2C2067BDE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF32BE2-C95C-48CD-AEE3-BFFD78BC3A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF32BE2-C95C-48CD-AEE3-BFFD78BC3A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF32BE2-C95C-48CD-AEE3-BFFD78BC3A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF32BE2-C95C-48CD-AEE3-BFFD78BC3A77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

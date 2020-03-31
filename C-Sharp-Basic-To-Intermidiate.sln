@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecptionHandling", "Execpt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnerExecption", "InnerExecption\InnerExecption.csproj", "{67B28B10-8B53-47AD-8B16-ABC4F50FE4C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomExecption", "CustomExecption\CustomExecption.csproj", "{98833687-50DF-40A6-B295-56477658B173}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{67B28B10-8B53-47AD-8B16-ABC4F50FE4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67B28B10-8B53-47AD-8B16-ABC4F50FE4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67B28B10-8B53-47AD-8B16-ABC4F50FE4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98833687-50DF-40A6-B295-56477658B173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98833687-50DF-40A6-B295-56477658B173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98833687-50DF-40A6-B295-56477658B173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98833687-50DF-40A6-B295-56477658B173}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

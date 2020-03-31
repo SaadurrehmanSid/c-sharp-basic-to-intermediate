@@ -1,0 +1,6 @@
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\CustomExecption\bin\Debug\CustomExecption.exe.config
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\CustomExecption\bin\Debug\CustomExecption.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\CustomExecption\bin\Debug\CustomExecption.pdb
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\CustomExecption\obj\Debug\CustomExecption.csprojAssemblyReference.cache
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\CustomExecption\obj\Debug\CustomExecption.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\CustomExecption\obj\Debug\CustomExecption.pdb

@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnerExecption", "InnerExec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomExecption", "CustomExecption\CustomExecption.csproj", "{98833687-50DF-40A6-B295-56477658B173}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumsInCSharp", "EnumsInCSharp\EnumsInCSharp.csproj", "{F6308E87-51D5-4ED8-8ABE-D90D39EF0C18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{98833687-50DF-40A6-B295-56477658B173}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98833687-50DF-40A6-B295-56477658B173}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98833687-50DF-40A6-B295-56477658B173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6308E87-51D5-4ED8-8ABE-D90D39EF0C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6308E87-51D5-4ED8-8ABE-D90D39EF0C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6308E87-51D5-4ED8-8ABE-D90D39EF0C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6308E87-51D5-4ED8-8ABE-D90D39EF0C18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

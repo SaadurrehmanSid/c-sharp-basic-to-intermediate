@@ -1,0 +1,6 @@
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\EnumsInCSharp\bin\Debug\EnumsInCSharp.exe.config
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\EnumsInCSharp\bin\Debug\EnumsInCSharp.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\EnumsInCSharp\bin\Debug\EnumsInCSharp.pdb
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\EnumsInCSharp\obj\Debug\EnumsInCSharp.csprojAssemblyReference.cache
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\EnumsInCSharp\obj\Debug\EnumsInCSharp.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\EnumsInCSharp\obj\Debug\EnumsInCSharp.pdb

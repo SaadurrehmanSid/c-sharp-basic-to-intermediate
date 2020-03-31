@@ -1,0 +1,11 @@
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\InnerExecption\bin\Debug\InnerExecption.exe.config
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\InnerExecption\bin\Debug\InnerExecption.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\InnerExecption\bin\Debug\InnerExecption.pdb
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\InnerExecption\bin\Debug\Magnum.dll
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\InnerExecption\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\InnerExecption\bin\Debug\Magnum.xml
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\InnerExecption\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\InnerExecption\obj\Debug\InnerExecption.csprojAssemblyReference.cache
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\InnerExecption\obj\Debug\InnerExecption.csproj.CopyComplete
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\InnerExecption\obj\Debug\InnerExecption.exe
+C:\Users\Saad ur rehman\source\repos\C-Sharp-Basic-To-Intermidiate\InnerExecption\obj\Debug\InnerExecption.pdb
